@@ -89,9 +89,10 @@ header{
 /* feature starts */
 .features{
   background-color: #fff;
+  padding-bottom: 70px;
 }
 .c_title{
-  color: white; 
+  color: black; 
   padding-top: 60px;
 }
 .c_title h1{
